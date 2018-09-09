@@ -1,0 +1,14 @@
+body {
+    background-color: gray;
+    outline-color: gray;
+}
+.kwadrat {
+    margin-left: 30px;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    
+}
+h1 {
+    color: whitesmoke;
+}
